@@ -37,7 +37,7 @@ These wallpapers are **not mine**, and all credit goes to the original artists a
 - Want to **suggest additions** or **update previews**?  
 
 Feel free to **open an issue** in this repository.  
-Pull requests are welcome for **curated improvements**, but the wallpapers themselves should **respect original authorship**.
+Pull requests are welcome for **curated improvements**. 
 
 ---
 
